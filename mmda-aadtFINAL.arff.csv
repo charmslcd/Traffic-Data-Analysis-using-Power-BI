@@ -1,0 +1,873 @@
+'Road Segment ID','Road Name',Route,'Target Area',Year,'Vehicle Type',Car,PUJ,UV,Taxi,PUB,Truck,Trailer,Motorcycle,Tricycle,'Total AADT'
+C:1,RECTO,Manila,'Innermost beltway',2022,Passenger,27587,0,0,3554,0,0,0,0,0,31141
+C:1,RECTO,Manila,'Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,44687,1854,46541
+C:1,RECTO,Manila,'Innermost beltway',2022,Public,0,6749,0,0,90,0,0,0,0,6839
+C:1,RECTO,Manila,'Innermost beltway',2022,Commercial,0,0,756,0,0,651,169,0,0,1576
+C:1,RECTO,Manila,'Innermost beltway',2021,Passenger,27447,0,0,4844,0,0,0,0,0,32291
+C:1,RECTO,Manila,'Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,45082,1660,46742
+C:1,RECTO,Manila,'Innermost beltway',2021,Public,0,3980,0,0,431,0,0,0,0,4411
+C:1,RECTO,Manila,'Innermost beltway',2021,Commercial,0,0,12,0,0,924,80,0,0,1016
+C:1,RECTO,Manila,'Innermost beltway',2020,Passenger,28622,0,0,5395,0,0,0,0,0,34017
+C:1,RECTO,Manila,'Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,51636,2733,54369
+C:1,RECTO,Manila,'Innermost beltway',2020,Public,0,4762,0,0,814,0,0,0,0,5576
+C:1,RECTO,Manila,'Innermost beltway',2020,Commercial,0,0,5,0,0,655,0,0,0,660
+C:1,RECTO,Manila,'Innermost beltway',2019,Passenger,21909,0,0,2324,0,0,0,0,0,24233
+C:1,RECTO,Manila,'Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,25439,2722,28161
+C:1,RECTO,Manila,'Innermost beltway',2019,Public,0,10115,0,0,719,0,0,0,0,10834
+C:1,RECTO,Manila,'Innermost beltway',2019,Commercial,0,0,2109,0,0,762,28,0,0,2899
+C:1,RECTO,Manila,'Innermost beltway',2018,Passenger,24537,0,0,3040,0,0,0,0,0,27577
+C:1,RECTO,Manila,'Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,21742,2692,24434
+C:1,RECTO,Manila,'Innermost beltway',2018,Public,0,10487,0,0,1489,0,0,0,0,11976
+C:1,RECTO,Manila,'Innermost beltway',2018,Commercial,0,0,2262,0,0,558,7,0,0,2827
+C:1,RECTO,Manila,'Innermost beltway',2017,Passenger,21366,0,0,4069,0,0,0,0,0,25435
+C:1,RECTO,Manila,'Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,19551,3253,22804
+C:1,RECTO,Manila,'Innermost beltway',2017,Public,0,13134,0,0,545,0,0,0,0,13679
+C:1,RECTO,Manila,'Innermost beltway',2017,Commercial,0,0,2172,0,0,584,3,0,0,2759
+C:1,RECTO,Manila,'Innermost beltway',2016,Passenger,26154,0,0,5017,0,0,0,0,0,26154
+C:1,RECTO,Manila,'Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,16882,5466,22348
+C:1,RECTO,Manila,'Innermost beltway',2016,Public,0,13454,0,0,690,0,0,0,0,14144
+C:1,RECTO,Manila,'Innermost beltway',2016,Commercial,0,0,781,0,0,703,13,0,0,716
+C:1,RECTO,Manila,'Innermost beltway',2015,Passenger,30216,0,0,5017,0,0,0,0,0,30216
+C:1,RECTO,Manila,'Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,19220,3906,23126
+C:1,RECTO,Manila,'Innermost beltway',2015,Public,0,15736,0,0,643,0,0,0,0,16379
+C:1,RECTO,Manila,'Innermost beltway',2015,Commercial,0,0,781,0,0,769,16,0,0,785
+C:1,RECTO,Manila,'Innermost beltway',2014,Passenger,23673,0,0,5017,0,0,0,0,0,23673
+C:1,RECTO,Manila,'Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,15063,3682,18745
+C:1,RECTO,Manila,'Innermost beltway',2014,Public,0,17956,0,0,259,0,0,0,0,18215
+C:1,RECTO,Manila,'Innermost beltway',2014,Commercial,0,0,781,0,0,816,382,0,0,1198
+C:1,RECTO,Manila,'Innermost beltway',2013,Passenger,29237,0,0,5017,0,0,0,0,0,29237
+C:1,RECTO,Manila,'Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,12559,1631,14190
+C:1,RECTO,Manila,'Innermost beltway',2013,Public,0,17747,0,0,1073,0,0,0,0,18820
+C:1,RECTO,Manila,'Innermost beltway',2013,Commercial,0,0,781,0,0,939,347,0,0,1286
+C:1,RECTO,Manila,'Innermost beltway',2012,Passenger,20926,0,0,5017,0,0,0,0,0,20926
+C:1,RECTO,Manila,'Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,7359,1828,9187
+C:1,RECTO,Manila,'Innermost beltway',2012,Public,0,15845,0,0,872,0,0,0,0,16717
+C:1,RECTO,Manila,'Innermost beltway',2012,Commercial,0,0,781,0,0,702,250,0,0,952
+C:2,MENDOZA,Manila,'Innermost beltway',2022,Passenger,83148,0,0,5384,0,0,0,0,0,88532
+C:2,MENDOZA,Manila,'Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,80092,1900,81992
+C:2,MENDOZA,Manila,'Innermost beltway',2022,Public,0,523,0,0,155,0,0,0,0,678
+C:2,MENDOZA,Manila,'Innermost beltway',2022,Commercial,0,0,243,0,0,3786,12,0,0,4041
+C:2,MENDOZA,Manila,'Innermost beltway',2021,Passenger,37472,0,0,3575,0,0,0,0,0,41047
+C:2,MENDOZA,Manila,'Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,54136,662,54798
+C:2,MENDOZA,Manila,'Innermost beltway',2021,Public,0,3384,0,0,68,0,0,0,0,3452
+C:2,MENDOZA,Manila,'Innermost beltway',2021,Commercial,0,0,9,0,0,8186,1897,0,0,10092
+C:2,MENDOZA,Manila,'Innermost beltway',2020,Passenger,36698,0,0,2152,0,0,0,0,0,38850
+C:2,MENDOZA,Manila,'Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,24296,2490,26786
+C:2,MENDOZA,Manila,'Innermost beltway',2020,Public,0,544,0,0,251,0,0,0,0,795
+C:2,MENDOZA,Manila,'Innermost beltway',2020,Commercial,0,0,44,0,0,3115,885,0,0,4044
+C:2,MENDOZA,Manila,'Innermost beltway',2019,Passenger,50045,0,0,3870,0,0,0,0,0,53915
+C:2,MENDOZA,Manila,'Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,28978,1328,30306
+C:2,MENDOZA,Manila,'Innermost beltway',2019,Public,0,59,0,0,235,0,0,0,0,294
+C:2,MENDOZA,Manila,'Innermost beltway',2019,Commercial,0,0,295,0,0,5592,877,0,0,6764
+C:2,MENDOZA,Manila,'Innermost beltway',2018,Passenger,56353,0,0,3582,0,0,0,0,0,59935
+C:2,MENDOZA,Manila,'Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,20673,1411,22084
+C:2,MENDOZA,Manila,'Innermost beltway',2018,Public,0,94,0,0,190,0,0,0,0,284
+C:2,MENDOZA,Manila,'Innermost beltway',2018,Commercial,0,0,579,0,0,5016,746,0,0,6341
+C:2,MENDOZA,Manila,'Innermost beltway',2017,Passenger,49430,0,0,5358,0,0,0,0,0,54788
+C:2,MENDOZA,Manila,'Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,21983,987,22970
+C:2,MENDOZA,Manila,'Innermost beltway',2017,Public,0,56,0,0,213,0,0,0,0,269
+C:2,MENDOZA,Manila,'Innermost beltway',2017,Commercial,0,0,519,0,0,5102,731,0,0,6352
+C:2,MENDOZA,Manila,'Innermost beltway',2016,Passenger,51410,0,0,5017,0,0,0,0,0,51410
+C:2,MENDOZA,Manila,'Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,21845,1247,23092
+C:2,MENDOZA,Manila,'Innermost beltway',2016,Public,0,46,0,0,276,0,0,0,0,322
+C:2,MENDOZA,Manila,'Innermost beltway',2016,Commercial,0,0,781,0,0,3462,265,0,0,3727
+C:2,MENDOZA,Manila,'Innermost beltway',2015,Passenger,63469,0,0,5017,0,0,0,0,0,63469
+C:2,MENDOZA,Manila,'Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,22611,984,23595
+C:2,MENDOZA,Manila,'Innermost beltway',2015,Public,0,72,0,0,193,0,0,0,0,265
+C:2,MENDOZA,Manila,'Innermost beltway',2015,Commercial,0,0,781,0,0,4007,506,0,0,4513
+C:2,MENDOZA,Manila,'Innermost beltway',2014,Passenger,61144,0,0,5017,0,0,0,0,0,61144
+C:2,MENDOZA,Manila,'Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,20199,633,20832
+C:2,MENDOZA,Manila,'Innermost beltway',2014,Public,0,104,0,0,217,0,0,0,0,321
+C:2,MENDOZA,Manila,'Innermost beltway',2014,Commercial,0,0,781,0,0,4374,398,0,0,4772
+C:2,MENDOZA,Manila,'Innermost beltway',2013,Passenger,54759,0,0,5017,0,0,0,0,0,54759
+C:2,MENDOZA,Manila,'Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,17225,1142,18367
+C:2,MENDOZA,Manila,'Innermost beltway',2013,Public,0,2938,0,0,366,0,0,0,0,3304
+C:2,MENDOZA,Manila,'Innermost beltway',2013,Commercial,0,0,781,0,0,5093,1000,0,0,6093
+C:2,MENDOZA,Manila,'Innermost beltway',2012,Passenger,40034,0,0,5017,0,0,0,0,0,40034
+C:2,MENDOZA,Manila,'Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,10992,325,11317
+C:2,MENDOZA,Manila,'Innermost beltway',2012,Public,0,1514,0,0,319,0,0,0,0,1833
+C:2,MENDOZA,Manila,'Innermost beltway',2012,Commercial,0,0,781,0,0,5253,1237,0,0,6490
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2022,Passenger,68697,0,0,3963,0,0,0,0,0,72660
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,70437,973,71410
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2022,Public,0,6,0,0,209,0,0,0,0,215
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2022,Commercial,0,0,81,0,0,3198,53,0,0,3332
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2021,Passenger,30942,0,0,2789,0,0,0,0,0,33731
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,33872,668,34540
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2021,Public,0,94,0,0,56,0,0,0,0,150
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2021,Commercial,0,0,10,0,0,3397,754,0,0,4161
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2020,Passenger,30541,0,0,2636,0,0,0,0,0,33177
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,17680,1195,18875
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2020,Public,0,176,0,0,430,0,0,0,0,606
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2020,Commercial,0,0,150,0,0,1839,769,0,0,2758
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2019,Passenger,63263,0,0,3425,0,0,0,0,0,66688
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,38103,1175,39278
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2019,Public,0,1329,0,0,48,0,0,0,0,1377
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2019,Commercial,0,0,391,0,0,7591,1442,0,0,9424
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2018,Passenger,65444,0,0,5111,0,0,0,0,0,70555
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,27239,1740,28979
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2018,Public,0,1301,0,0,113,0,0,0,0,1414
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2018,Commercial,0,0,353,0,0,6248,1043,0,0,7644
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2017,Passenger,59647,0,0,6852,0,0,0,0,0,66499
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,27686,1867,29553
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2017,Public,0,1574,0,0,99,0,0,0,0,1673
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2017,Commercial,0,0,454,0,0,5958,981,0,0,7393
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2016,Passenger,71317,0,0,5017,0,0,0,0,0,71317
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,28669,651,29320
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2016,Public,0,7277,0,0,135,0,0,0,0,7412
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2016,Commercial,0,0,781,0,0,7075,2358,0,0,9433
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2015,Passenger,76073,0,0,5017,0,0,0,0,0,76073
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,28541,527,29068
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2015,Public,0,5019,0,0,173,0,0,0,0,5192
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2015,Commercial,0,0,781,0,0,6421,3070,0,0,9491
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2014,Passenger,88806,0,0,5017,0,0,0,0,0,88806
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,25887,98,25985
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2014,Public,0,158,0,0,180,0,0,0,0,338
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2014,Commercial,0,0,781,0,0,7130,2398,0,0,9528
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2013,Passenger,94475,0,0,5017,0,0,0,0,0,94475
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,21083,524,21607
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2013,Public,0,4668,0,0,210,0,0,0,0,4878
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2013,Commercial,0,0,781,0,0,6729,2204,0,0,8933
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2012,Passenger,99264,0,0,5017,0,0,0,0,0,99264
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,23336,362,23698
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2012,Public,0,5019,0,0,500,0,0,0,0,5519
+C:2,'PRES. QUIRINO AVE.',Manila,'Innermost beltway',2012,Commercial,0,0,781,0,0,7788,2556,0,0,10344
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2022,Passenger,59994,0,0,2758,0,0,0,0,0,62752
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,44877,1475,46352
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2022,Public,0,14,0,0,26,0,0,0,0,40
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2022,Commercial,0,0,16,0,0,2639,507,0,0,3162
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2021,Passenger,58726,0,0,2361,0,0,0,0,0,61087
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,36033,488,36521
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2021,Public,0,0,0,0,1,0,0,0,0,1
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2021,Commercial,0,0,9,0,0,2200,447,0,0,2656
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2020,Passenger,35696,0,0,3867,0,0,0,0,0,39563
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,38154,2237,40391
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2020,Public,0,762,0,0,21,0,0,0,0,783
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2020,Commercial,0,0,23,0,0,3546,661,0,0,4230
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2019,Passenger,42708,0,0,3672,0,0,0,0,0,46380
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,36526,2908,39434
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2019,Public,0,2172,0,0,30,0,0,0,0,2202
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2019,Commercial,0,0,2,0,0,3718,697,0,0,4417
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2018,Passenger,38740,0,0,3604,0,0,0,0,0,42344
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,30289,2151,32440
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2018,Public,0,1351,0,0,10,0,0,0,0,1361
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2018,Commercial,0,0,19,0,0,4610,445,0,0,5074
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2017,Passenger,40306,0,0,4207,0,0,0,0,0,44513
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,26107,2675,28782
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2017,Public,0,1945,0,0,6,0,0,0,0,1951
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2017,Commercial,0,0,14,0,0,4163,607,0,0,4784
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2016,Passenger,43654,0,0,5017,0,0,0,0,0,43654
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,26081,2712,28793
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2016,Public,0,1998,0,0,23,0,0,0,0,2021
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2016,Commercial,0,0,781,0,0,4135,599,0,0,4734
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2015,Passenger,54670,0,0,5017,0,0,0,0,0,54670
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,25111,2769,27880
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2015,Public,0,2228,0,0,21,0,0,0,0,2249
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2015,Commercial,0,0,781,0,0,4393,528,0,0,4921
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2014,Passenger,68009,0,0,5017,0,0,0,0,0,68009
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,21649,1124,22773
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2014,Public,0,1473,0,0,18,0,0,0,0,1491
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2014,Commercial,0,0,781,0,0,4291,796,0,0,5087
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2013,Passenger,74498,0,0,5017,0,0,0,0,0,74498
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,21375,1111,22486
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2013,Public,0,1572,0,0,26,0,0,0,0,1598
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2013,Commercial,0,0,781,0,0,6297,815,0,0,7112
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2012,Passenger,51390,0,0,5017,0,0,0,0,0,51390
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,14730,671,15401
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2012,Public,0,1432,0,0,55,0,0,0,0,1487
+C:3,'ARANETA AVE.',Navotas-Pasay,'Innermost beltway',2012,Commercial,0,0,781,0,0,4401,411,0,0,4812
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2022,Passenger,202764,0,0,18186,0,0,0,0,0,220950
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,151847,20,151867
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2022,Public,0,1803,0,0,5588,0,0,0,0,7391
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2022,Commercial,0,0,2475,0,0,2295,119,0,0,4889
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2021,Passenger,199402,0,0,19287,0,0,0,0,0,218689
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,141564,16,141580
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2021,Public,0,1638,0,0,5527,0,0,0,0,7165
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2021,Commercial,0,0,2604,0,0,2188,45,0,0,4837
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2020,Passenger,193788,0,0,19316,0,0,0,0,0,213104
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,107509,4,107513
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2020,Public,0,225,0,0,3645,0,0,0,0,3870
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2020,Commercial,0,0,1423,0,0,2136,68,0,0,3627
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2019,Passenger,255732,0,0,18913,0,0,0,0,0,274645
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,110167,9,110176
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2019,Public,0,2166,0,0,11313,0,0,0,0,13479
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2019,Commercial,0,0,6285,0,0,1297,0,0,0,7582
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2018,Passenger,251628,0,0,20871,0,0,0,0,0,272499
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,86082,15,86097
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2018,Public,0,1940,0,0,13356,0,0,0,0,15296
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2018,Commercial,0,0,6903,0,0,3027,6,0,0,9936
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2017,Passenger,247527,0,0,20022,0,0,0,0,0,267549
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,69438,28,69466
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2017,Public,0,2369,0,0,12283,0,0,0,0,14652
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2017,Commercial,0,0,7229,0,0,8830,2,0,0,16061
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2016,Passenger,278657,0,0,5017,0,0,0,0,0,278657
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,65757,5,65762
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2016,Public,0,2723,0,0,12081,0,0,0,0,14804
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2016,Commercial,0,0,781,0,0,5556,2,0,0,5558
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2015,Passenger,284436,0,0,5017,0,0,0,0,0,284436
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,60432,20,60452
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2015,Public,0,2944,0,0,14384,0,0,0,0,17328
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2015,Commercial,0,0,781,0,0,5451,8,0,0,5459
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2014,Passenger,284460,0,0,5017,0,0,0,0,0,284460
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,51696,9,51705
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2014,Public,0,4864,0,0,14970,0,0,0,0,19834
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2014,Commercial,0,0,781,0,0,4417,1,0,0,4418
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2013,Passenger,272965,0,0,5017,0,0,0,0,0,272965
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,47192,9,47201
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2013,Public,0,3032,0,0,14919,0,0,0,0,17951
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2013,Commercial,0,0,781,0,0,4491,4,0,0,4495
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2012,Passenger,264067,0,0,5017,0,0,0,0,0,264067
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,38859,6,38865
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2012,Public,0,3292,0,0,15214,0,0,0,0,18506
+C:4,EDSA,Navotas-Pasay,'Innermost beltway',2012,Commercial,0,0,781,0,0,5023,43,0,0,5066
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2022,Passenger,93513,0,0,4123,0,0,0,0,0,97636
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,100133,44,100177
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2022,Public,0,405,0,0,789,0,0,0,0,1194
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2022,Commercial,0,0,2668,0,0,8993,1151,0,0,12812
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2021,Passenger,99316,0,0,4685,0,0,0,0,0,104001
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,93681,37,93718
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2021,Public,0,289,0,0,340,0,0,0,0,629
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2021,Commercial,0,0,2121,0,0,10535,1281,0,0,13937
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2020,Passenger,100846,0,0,6941,0,0,0,0,0,107787
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,71797,14,71811
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2020,Public,0,316,0,0,347,0,0,0,0,663
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2020,Commercial,0,0,436,0,0,10996,725,0,0,12157
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2019,Passenger,124426,0,0,4533,0,0,0,0,0,128959
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,88996,41,89037
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2019,Public,0,967,0,0,541,0,0,0,0,1508
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2019,Commercial,0,0,5421,0,0,10175,960,0,0,16556
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2018,Passenger,133427,0,0,6552,0,0,0,0,0,139979
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,73169,10,73179
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2018,Public,0,1378,0,0,908,0,0,0,0,2286
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2018,Commercial,0,0,6886,0,0,12624,790,0,0,20300
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2017,Passenger,133171,0,0,7293,0,0,0,0,0,140464
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,57881,19,57900
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2017,Public,0,923,0,0,221,0,0,0,0,1144
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2017,Commercial,0,0,8442,0,0,10121,680,0,0,19243
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2016,Passenger,154037,0,0,5017,0,0,0,0,0,154037
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,49277,6,49283
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2016,Public,0,950,0,0,373,0,0,0,0,1323
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2016,Commercial,0,0,781,0,0,12411,1101,0,0,13512
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2015,Passenger,134939,0,0,5017,0,0,0,0,0,134939
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,46149,4,46153
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2015,Public,0,985,0,0,662,0,0,0,0,1647
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2015,Commercial,0,0,781,0,0,10458,922,0,0,11380
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2014,Passenger,127594,0,0,5017,0,0,0,0,0,127594
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,38401,6,38407
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2014,Public,0,812,0,0,194,0,0,0,0,1006
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2014,Commercial,0,0,781,0,0,10508,914,0,0,11422
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2013,Passenger,133929,0,0,5017,0,0,0,0,0,133929
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,19974,11764,31738
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2013,Public,0,2268,0,0,35,0,0,0,0,2303
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2013,Commercial,0,0,781,0,0,7142,817,0,0,7959
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2012,Passenger,122403,0,0,5017,0,0,0,0,0,122403
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,17510,7905,25415
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2012,Public,0,2274,0,0,52,0,0,0,0,2326
+C:5,'C.P. GARCIA / KATIPUNAN AVE. / TANDANG SORA','Valenzuela-Las Pinas','Innermost beltway',2012,Commercial,0,0,781,0,0,7289,554,0,0,7843
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2022,Passenger,90400,0,0,9018,0,0,0,0,0,99418
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,80120,290,80410
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2022,Public,0,68,0,0,595,0,0,0,0,663
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2022,Commercial,0,0,2461,0,0,1077,2050,0,0,5588
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2021,Passenger,95063,0,0,11734,0,0,0,0,0,106797
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,81895,2793,84688
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2021,Public,0,9366,0,0,1575,0,0,0,0,10941
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2021,Commercial,0,0,1988,0,0,3076,1849,0,0,6913
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2020,Passenger,105863,0,0,8769,0,0,0,0,0,114632
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,70184,142,70326
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2020,Public,0,105,0,0,851,0,0,0,0,956
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2020,Commercial,0,0,1053,0,0,1158,2501,0,0,4712
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2019,Passenger,121467,0,0,13511,0,0,0,0,0,134978
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,55657,213,55870
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2019,Public,0,265,0,0,1530,0,0,0,0,1795
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2019,Commercial,0,0,6885,0,0,975,3079,0,0,10939
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2018,Passenger,129475,0,0,16387,0,0,0,0,0,145862
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,45199,405,45604
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2018,Public,0,86,0,0,1782,0,0,0,0,1868
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2018,Commercial,0,0,6366,0,0,992,2795,0,0,10153
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2017,Passenger,120524,0,0,16660,0,0,0,0,0,137184
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,42191,116,42307
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2017,Public,0,42,0,0,2103,0,0,0,0,2145
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2017,Commercial,0,0,7626,0,0,747,1111,0,0,9484
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2016,Passenger,133664,0,0,5017,0,0,0,0,0,133664
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,38413,201,38614
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2016,Public,0,130,0,0,714,0,0,0,0,844
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2016,Commercial,0,0,781,0,0,926,1137,0,0,2063
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2015,Passenger,138070,0,0,5017,0,0,0,0,0,138070
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,33827,38,33865
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2015,Public,0,103,0,0,276,0,0,0,0,379
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2015,Commercial,0,0,781,0,0,831,50,0,0,881
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2014,Passenger,135948,0,0,5017,0,0,0,0,0,135948
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,31734,49,31783
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2014,Public,0,90,0,0,751,0,0,0,0,841
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2014,Commercial,0,0,781,0,0,391,0,0,0,391
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2013,Passenger,117255,0,0,5017,0,0,0,0,0,117255
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,23105,13,23118
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2013,Public,0,87,0,0,1037,0,0,0,0,1124
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2013,Commercial,0,0,781,0,0,459,7,0,0,466
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2012,Passenger,123505,0,0,5017,0,0,0,0,0,123505
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,23168,13,23181
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2012,Public,0,300,0,0,2856,0,0,0,0,3156
+R:1,'ROXAS BLVD.',Manila-Cavite,'Outside of the city',2012,Commercial,0,0,781,0,0,363,37,0,0,400
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2022,Passenger,73942,0,0,4923,0,0,0,0,0,78865
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,83705,6639,90344
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2022,Public,0,14622,0,0,1174,0,0,0,0,15796
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2022,Commercial,0,0,7648,0,0,1647,164,0,0,9459
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2021,Passenger,43676,0,0,5970,0,0,0,0,0,49646
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,45416,3807,49223
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2021,Public,0,8552,0,0,1865,0,0,0,0,10417
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2021,Commercial,0,0,4400,0,0,1022,7,0,0,5429
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2020,Passenger,38695,0,0,5888,0,0,0,0,0,44583
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,34297,1833,36130
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2020,Public,0,13043,0,0,3881,0,0,0,0,16924
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2020,Commercial,0,0,12625,0,0,653,1,0,0,13279
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2019,Passenger,39103,0,0,4584,0,0,0,0,0,43687
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,30948,1369,32317
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2019,Public,0,10491,0,0,3382,0,0,0,0,13873
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2019,Commercial,0,0,9458,0,0,729,1,0,0,10188
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2018,Passenger,37789,0,0,5644,0,0,0,0,0,43433
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,20338,459,20797
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2018,Public,0,11974,0,0,4129,0,0,0,0,16103
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2018,Commercial,0,0,10737,0,0,692,4,0,0,11433
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2017,Passenger,36558,0,0,5643,0,0,0,0,0,42201
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,18028,570,18598
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2017,Public,0,12152,0,0,3749,0,0,0,0,15901
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2017,Commercial,0,0,13236,0,0,640,10,0,0,13886
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2016,Passenger,54047,0,0,5017,0,0,0,0,0,54047
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,17518,1090,18608
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2016,Public,0,13069,0,0,3575,0,0,0,0,16644
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2016,Commercial,0,0,781,0,0,543,6,0,0,549
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2015,Passenger,56378,0,0,5017,0,0,0,0,0,56378
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,14683,582,15265
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2015,Public,0,15885,0,0,2992,0,0,0,0,18877
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2015,Commercial,0,0,781,0,0,650,15,0,0,665
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2014,Passenger,50897,0,0,5017,0,0,0,0,0,50897
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,14935,392,15327
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2014,Public,0,14930,0,0,1904,0,0,0,0,16834
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2014,Commercial,0,0,781,0,0,404,1,0,0,405
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2013,Passenger,51640,0,0,5017,0,0,0,0,0,51640
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,10015,303,10318
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2013,Public,0,14176,0,0,1281,0,0,0,0,15457
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2013,Commercial,0,0,781,0,0,435,53,0,0,488
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2012,Passenger,27273,0,0,5017,0,0,0,0,0,27273
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,5151,394,5545
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2012,Public,0,6344,0,0,2878,0,0,0,0,9222
+R:2,'TAFT AVE.',Manila-Cavite,'Outside of the city',2012,Commercial,0,0,781,0,0,223,13,0,0,236
+R:3,SSH,Manila-Batangas,'Outside of the city',2022,Passenger,146455,0,0,7920,0,0,0,0,0,154375
+R:3,SSH,Manila-Batangas,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,86204,51,86255
+R:3,SSH,Manila-Batangas,'Outside of the city',2022,Public,0,4413,0,0,4893,0,0,0,0,9306
+R:3,SSH,Manila-Batangas,'Outside of the city',2022,Commercial,0,0,246,0,0,6870,3497,0,0,10613
+R:3,SSH,Manila-Batangas,'Outside of the city',2021,Passenger,96111,0,0,5740,0,0,0,0,0,101851
+R:3,SSH,Manila-Batangas,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,75867,80,75947
+R:3,SSH,Manila-Batangas,'Outside of the city',2021,Public,0,187,0,0,367,0,0,0,0,554
+R:3,SSH,Manila-Batangas,'Outside of the city',2021,Commercial,0,0,80,0,0,6664,2093,0,0,8837
+R:3,SSH,Manila-Batangas,'Outside of the city',2020,Passenger,69900,0,0,5842,0,0,0,0,0,75742
+R:3,SSH,Manila-Batangas,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,54174,88,54262
+R:3,SSH,Manila-Batangas,'Outside of the city',2020,Public,0,0,0,0,175,0,0,0,0,175
+R:3,SSH,Manila-Batangas,'Outside of the city',2020,Commercial,0,0,45,0,0,9653,2878,0,0,12576
+R:3,SSH,Manila-Batangas,'Outside of the city',2019,Passenger,72648,0,0,5728,0,0,0,0,0,78376
+R:3,SSH,Manila-Batangas,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,40082,80,40162
+R:3,SSH,Manila-Batangas,'Outside of the city',2019,Public,0,244,0,0,763,0,0,0,0,1007
+R:3,SSH,Manila-Batangas,'Outside of the city',2019,Commercial,0,0,570,0,0,7603,2716,0,0,10889
+R:3,SSH,Manila-Batangas,'Outside of the city',2018,Passenger,56104,0,0,4382,0,0,0,0,0,60486
+R:3,SSH,Manila-Batangas,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,29545,28,29573
+R:3,SSH,Manila-Batangas,'Outside of the city',2018,Public,0,39,0,0,748,0,0,0,0,787
+R:3,SSH,Manila-Batangas,'Outside of the city',2018,Commercial,0,0,384,0,0,6807,2872,0,0,10063
+R:3,SSH,Manila-Batangas,'Outside of the city',2017,Passenger,65381,0,0,6650,0,0,0,0,0,72031
+R:3,SSH,Manila-Batangas,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,21797,62,21859
+R:3,SSH,Manila-Batangas,'Outside of the city',2017,Public,0,353,0,0,892,0,0,0,0,1245
+R:3,SSH,Manila-Batangas,'Outside of the city',2017,Commercial,0,0,684,0,0,5182,2376,0,0,8242
+R:3,SSH,Manila-Batangas,'Outside of the city',2016,Passenger,68844,0,0,5017,0,0,0,0,0,68844
+R:3,SSH,Manila-Batangas,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,23033,68,23101
+R:3,SSH,Manila-Batangas,'Outside of the city',2016,Public,0,0,0,0,795,0,0,0,0,795
+R:3,SSH,Manila-Batangas,'Outside of the city',2016,Commercial,0,0,781,0,0,5550,1633,0,0,7183
+R:3,SSH,Manila-Batangas,'Outside of the city',2015,Passenger,86552,0,0,5017,0,0,0,0,0,86552
+R:3,SSH,Manila-Batangas,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,28095,33,28128
+R:3,SSH,Manila-Batangas,'Outside of the city',2015,Public,0,3,0,0,779,0,0,0,0,782
+R:3,SSH,Manila-Batangas,'Outside of the city',2015,Commercial,0,0,781,0,0,7184,3921,0,0,11105
+R:3,SSH,Manila-Batangas,'Outside of the city',2014,Passenger,97801,0,0,5017,0,0,0,0,0,97801
+R:3,SSH,Manila-Batangas,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,22366,2,22368
+R:3,SSH,Manila-Batangas,'Outside of the city',2014,Public,0,7085,0,0,6065,0,0,0,0,13150
+R:3,SSH,Manila-Batangas,'Outside of the city',2014,Commercial,0,0,781,0,0,9484,807,0,0,10291
+R:3,SSH,Manila-Batangas,'Outside of the city',2013,Passenger,97771,0,0,5017,0,0,0,0,0,97771
+R:3,SSH,Manila-Batangas,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,22758,62,22820
+R:3,SSH,Manila-Batangas,'Outside of the city',2013,Public,0,61,0,0,1492,0,0,0,0,1553
+R:3,SSH,Manila-Batangas,'Outside of the city',2013,Commercial,0,0,781,0,0,7323,2508,0,0,9831
+R:3,SSH,Manila-Batangas,'Outside of the city',2012,Passenger,92053,0,0,5017,0,0,0,0,0,92053
+R:3,SSH,Manila-Batangas,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,18186,45,18231
+R:3,SSH,Manila-Batangas,'Outside of the city',2012,Public,0,20,0,0,1040,0,0,0,0,1060
+R:3,SSH,Manila-Batangas,'Outside of the city',2012,Commercial,0,0,781,0,0,7703,3413,0,0,11116
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2022,Passenger,47568,0,0,5385,0,0,0,0,0,52953
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,52739,21,52760
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2022,Public,0,2545,0,0,48,0,0,0,0,2593
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2022,Commercial,0,0,1412,0,0,1041,98,0,0,2551
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2021,Passenger,48612,0,0,7958,0,0,0,0,0,56570
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,45517,10,45527
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2021,Public,0,1127,0,0,325,0,0,0,0,1452
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2021,Commercial,0,0,757,0,0,798,101,0,0,1656
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2020,Passenger,46235,0,0,6217,0,0,0,0,0,52452
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,47331,475,47806
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2020,Public,0,737,0,0,732,0,0,0,0,1469
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2020,Commercial,0,0,51,0,0,1790,41,0,0,1882
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2019,Passenger,50205,0,0,3399,0,0,0,0,0,53604
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,41082,20,41102
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2019,Public,0,5508,0,0,99,0,0,0,0,5607
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2019,Commercial,0,0,3180,0,0,1362,91,0,0,4633
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2018,Passenger,52128,0,0,3684,0,0,0,0,0,55812
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,36486,5,36491
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2018,Public,0,5801,0,0,69,0,0,0,0,5870
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2018,Commercial,0,0,3499,0,0,1250,155,0,0,4904
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2017,Passenger,55632,0,0,4029,0,0,0,0,0,59661
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,30724,6,30730
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2017,Public,0,6450,0,0,107,0,0,0,0,6557
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2017,Commercial,0,0,3496,0,0,1054,126,0,0,4676
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2016,Passenger,63066,0,0,5017,0,0,0,0,0,63066
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,27794,5,27799
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2016,Public,0,8734,0,0,53,0,0,0,0,8787
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2016,Commercial,0,0,781,0,0,1480,175,0,0,1655
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2015,Passenger,58604,0,0,5017,0,0,0,0,0,58604
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,24525,4,24529
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2015,Public,0,10262,0,0,74,0,0,0,0,10336
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2015,Commercial,0,0,781,0,0,1603,164,0,0,1767
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2014,Passenger,57922,0,0,5017,0,0,0,0,0,57922
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,18115,14,18129
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2014,Public,0,10756,0,0,50,0,0,0,0,10806
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2014,Commercial,0,0,781,0,0,1133,67,0,0,1200
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2013,Passenger,56753,0,0,5017,0,0,0,0,0,56753
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,18739,14,18753
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2013,Public,0,11346,0,0,56,0,0,0,0,11402
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2013,Commercial,0,0,781,0,0,1458,64,0,0,1522
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2012,Passenger,58292,0,0,5017,0,0,0,0,0,58292
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,15539,0,15539
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2012,Public,0,11637,0,0,56,0,0,0,0,11693
+R:4,'SHAW BLVD.',Manila-Muntinlupa,'Outside of the city',2012,Commercial,0,0,781,0,0,1493,200,0,0,1693
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2022,Passenger,66372,0,0,3505,0,0,0,0,0,69877
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,75422,113,75535
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2022,Public,0,24357,0,0,901,0,0,0,0,25258
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2022,Commercial,0,0,4454,0,0,3988,549,0,0,8991
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2021,Passenger,73145,0,0,3176,0,0,0,0,0,76321
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,90210,449,90659
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2021,Public,0,6866,0,0,3177,0,0,0,0,10043
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2021,Commercial,0,0,3619,0,0,4571,486,0,0,8676
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2020,Passenger,80679,0,0,4149,0,0,0,0,0,84828
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,73070,416,73486
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2020,Public,0,2425,0,0,3796,0,0,0,0,6221
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2020,Commercial,0,0,2611,0,0,4730,614,0,0,7955
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2019,Passenger,70603,0,0,2790,0,0,0,0,0,73393
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,81171,461,81632
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2019,Public,0,11167,0,0,1790,0,0,0,0,12957
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2019,Commercial,0,0,8351,0,0,3986,418,0,0,12755
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2018,Passenger,79128,0,0,3946,0,0,0,0,0,83074
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,64245,677,64922
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2018,Public,0,10674,0,0,1115,0,0,0,0,11789
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2018,Commercial,0,0,8542,0,0,5515,638,0,0,14695
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2017,Passenger,71102,0,0,3723,0,0,0,0,0,74825
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,50769,376,51145
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2017,Public,0,12054,0,0,877,0,0,0,0,12931
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2017,Commercial,0,0,9344,0,0,5029,681,0,0,15054
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2016,Passenger,88628,0,0,5017,0,0,0,0,0,88628
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,41958,623,42581
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2016,Public,0,15557,0,0,881,0,0,0,0,16438
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2016,Commercial,0,0,781,0,0,5162,616,0,0,5778
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2015,Passenger,73293,0,0,5017,0,0,0,0,0,73293
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,32044,9,32053
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2015,Public,0,9706,0,0,914,0,0,0,0,10620
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2015,Commercial,0,0,781,0,0,5039,428,0,0,5467
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2014,Passenger,66079,0,0,5017,0,0,0,0,0,66079
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,32979,521,33500
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2014,Public,0,18091,0,0,1003,0,0,0,0,19094
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2014,Commercial,0,0,781,0,0,4252,352,0,0,4604
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2013,Passenger,66856,0,0,5017,0,0,0,0,0,66856
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,21748,1,21749
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2013,Public,0,11843,0,0,837,0,0,0,0,12680
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2013,Commercial,0,0,781,0,0,4336,562,0,0,4898
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2012,Passenger,73479,0,0,5017,0,0,0,0,0,73479
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,17838,0,17838
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2012,Public,0,7982,0,0,1077,0,0,0,0,9059
+R:5,'ORTIGAS AVE.',Manila-Laguna,'Outside of the city',2012,Commercial,0,0,781,0,0,1858,212,0,0,2070
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2022,Passenger,47686,0,0,5434,0,0,0,0,0,53120
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,64643,1612,66255
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2022,Public,0,6144,0,0,152,0,0,0,0,6296
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2022,Commercial,0,0,917,0,0,1644,272,0,0,2833
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2021,Passenger,57031,0,0,7255,0,0,0,0,0,64286
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,66360,1292,67652
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2021,Public,0,5043,0,0,391,0,0,0,0,5434
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2021,Commercial,0,0,43,0,0,2138,380,0,0,2561
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2020,Passenger,48380,0,0,6868,0,0,0,0,0,55248
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,50399,1943,52342
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2020,Public,0,10,0,0,825,0,0,0,0,835
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2020,Commercial,0,0,11,0,0,2755,349,0,0,3115
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2019,Passenger,56398,0,0,5444,0,0,0,0,0,61842
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,43178,1951,45129
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2019,Public,0,6522,0,0,941,0,0,0,0,7463
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2019,Commercial,0,0,108,0,0,4340,938,0,0,5386
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2018,Passenger,59811,0,0,4776,0,0,0,0,0,64587
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,37237,1666,38903
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2018,Public,0,6089,0,0,756,0,0,0,0,6845
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2018,Commercial,0,0,159,0,0,2821,412,0,0,3392
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2017,Passenger,56261,0,0,6265,0,0,0,0,0,62526
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,28878,1241,30119
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2017,Public,0,5952,0,0,722,0,0,0,0,6674
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2017,Commercial,0,0,59,0,0,2859,336,0,0,3254
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2016,Passenger,59550,0,0,5017,0,0,0,0,0,59550
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,24426,872,25298
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2016,Public,0,5677,0,0,638,0,0,0,0,6315
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2016,Commercial,0,0,781,0,0,3125,491,0,0,3616
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2015,Passenger,56971,0,0,5017,0,0,0,0,0,56971
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,25129,1107,26236
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2015,Public,0,13220,0,0,729,0,0,0,0,13949
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2015,Commercial,0,0,781,0,0,2228,429,0,0,2657
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2014,Passenger,55977,0,0,5017,0,0,0,0,0,55977
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,23155,1044,24199
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2014,Public,0,15292,0,0,429,0,0,0,0,15721
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2014,Commercial,0,0,781,0,0,2543,313,0,0,2856
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2013,Passenger,53279,0,0,5017,0,0,0,0,0,53279
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,18032,525,18557
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2013,Public,0,17310,0,0,974,0,0,0,0,18284
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2013,Commercial,0,0,781,0,0,2118,379,0,0,2497
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2012,Passenger,60568,0,0,5017,0,0,0,0,0,60568
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,14264,317,14581
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2012,Public,0,6974,0,0,1377,0,0,0,0,8351
+R:6,'MAGSAYSAY BLVD.',Manila-Quezon,'Outside of the city',2012,Commercial,0,0,781,0,0,2269,289,0,0,2558
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2022,Passenger,43305,0,0,5600,0,0,0,0,0,48905
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,57926,167,58093
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2022,Public,0,7954,0,0,522,0,0,0,0,8476
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2022,Commercial,0,0,2121,0,0,1988,42,0,0,4151
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2021,Passenger,36367,0,0,4200,0,0,0,0,0,40567
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,48318,98,48416
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2021,Public,0,7424,0,0,1005,0,0,0,0,8429
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2021,Commercial,0,0,1458,0,0,1922,20,0,0,3400
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2020,Passenger,40912,0,0,5712,0,0,0,0,0,46624
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,45195,101,45296
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2020,Public,0,12027,0,0,508,0,0,0,0,12535
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2020,Commercial,0,0,6726,0,0,2001,14,0,0,8741
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2019,Passenger,39342,0,0,6717,0,0,0,0,0,46059
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,51539,155,51694
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2019,Public,0,13873,0,0,463,0,0,0,0,14336
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2019,Commercial,0,0,6476,0,0,1801,19,0,0,8296
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2018,Passenger,37881,0,0,6047,0,0,0,0,0,43928
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,33970,94,34064
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2018,Public,0,14975,0,0,70,0,0,0,0,15045
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2018,Commercial,0,0,8361,0,0,2027,38,0,0,10426
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2017,Passenger,41620,0,0,5245,0,0,0,0,0,46865
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,25614,314,25928
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2017,Public,0,14707,0,0,57,0,0,0,0,14764
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2017,Commercial,0,0,6701,0,0,3674,712,0,0,11087
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2016,Passenger,57070,0,0,5017,0,0,0,0,0,57070
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,20811,310,21121
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2016,Public,0,14942,0,0,67,0,0,0,0,15009
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2016,Commercial,0,0,781,0,0,2358,37,0,0,2395
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2015,Passenger,55978,0,0,5017,0,0,0,0,0,55978
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,18168,697,18865
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2015,Public,0,16592,0,0,73,0,0,0,0,16665
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2015,Commercial,0,0,781,0,0,2168,30,0,0,2198
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2014,Passenger,60873,0,0,5017,0,0,0,0,0,60873
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,22420,257,22677
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2014,Public,0,16602,0,0,85,0,0,0,0,16687
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2014,Commercial,0,0,781,0,0,2290,27,0,0,2317
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2013,Passenger,75264,0,0,5017,0,0,0,0,0,75264
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,21484,166,21650
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2013,Public,0,20340,0,0,127,0,0,0,0,20467
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2013,Commercial,0,0,781,0,0,4255,386,0,0,4641
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2012,Passenger,78434,0,0,5017,0,0,0,0,0,78434
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,21890,608,22498
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2012,Public,0,19215,0,0,173,0,0,0,0,19388
+R:6,'AURORA BLVD.',Manila-Quezon,'Outside of the city',2012,Commercial,0,0,781,0,0,4124,326,0,0,4450
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2022,Passenger,130465,0,0,13003,0,0,0,0,0,143468
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,125966,149,126115
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2022,Public,0,2806,0,0,853,0,0,0,0,3659
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2022,Commercial,0,0,2963,0,0,4088,314,0,0,7365
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2021,Passenger,120383,0,0,13139,0,0,0,0,0,133522
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,117718,90,117808
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2021,Public,0,2094,0,0,1111,0,0,0,0,3205
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2021,Commercial,0,0,2813,0,0,4493,287,0,0,7593
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2020,Passenger,126286,0,0,14828,0,0,0,0,0,141114
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,71923,55,71978
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2020,Public,0,6676,0,0,1428,0,0,0,0,8104
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2020,Commercial,0,0,12049,0,0,4311,203,0,0,16563
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2019,Passenger,123395,0,0,15371,0,0,0,0,0,138766
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,63892,446,64338
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2019,Public,0,12212,0,0,1223,0,0,0,0,13435
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2019,Commercial,0,0,7879,0,0,5278,403,0,0,13560
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2018,Passenger,120080,0,0,16214,0,0,0,0,0,136294
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,44462,67,44529
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2018,Public,0,6230,0,0,1397,0,0,0,0,7627
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2018,Commercial,0,0,11712,0,0,4123,319,0,0,16154
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2017,Passenger,113905,0,0,15840,0,0,0,0,0,129745
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,40759,47,40806
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2017,Public,0,6868,0,0,1217,0,0,0,0,8085
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2017,Commercial,0,0,12791,0,0,3664,244,0,0,16699
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2016,Passenger,140311,0,0,5017,0,0,0,0,0,140311
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,31720,579,32299
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2016,Public,0,9056,0,0,1201,0,0,0,0,10257
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2016,Commercial,0,0,781,0,0,4081,163,0,0,4244
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2015,Passenger,136358,0,0,5017,0,0,0,0,0,136358
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,35347,121,35468
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2015,Public,0,8429,0,0,1400,0,0,0,0,9829
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2015,Commercial,0,0,781,0,0,4337,329,0,0,4666
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2014,Passenger,140290,0,0,5017,0,0,0,0,0,140290
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,29754,63,29817
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2014,Public,0,7163,0,0,1557,0,0,0,0,8720
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2014,Commercial,0,0,781,0,0,4061,570,0,0,4631
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2013,Passenger,131076,0,0,5017,0,0,0,0,0,131076
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,29298,400,29698
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2013,Public,0,15404,0,0,1789,0,0,0,0,17193
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2013,Commercial,0,0,781,0,0,5326,316,0,0,5642
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2012,Passenger,106611,0,0,5017,0,0,0,0,0,106611
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,19826,81,19907
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2012,Public,0,11589,0,0,2074,0,0,0,0,13663
+R:7,'QUEZON AVE.',Manila-Bulacan,'Outside of the city',2012,Commercial,0,0,781,0,0,3110,389,0,0,3499
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2022,Passenger,153029,0,0,16026,0,0,0,0,0,169055
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,154369,628,154997
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2022,Public,0,5520,0,0,4614,0,0,0,0,10134
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2022,Commercial,0,0,4223,0,0,7336,439,0,0,11998
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2021,Passenger,135153,0,0,14663,0,0,0,0,0,149816
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,133591,131,133722
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2021,Public,0,1740,0,0,5879,0,0,0,0,7619
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2021,Commercial,0,0,4879,0,0,5914,366,0,0,11159
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2020,Passenger,148343,0,0,13643,0,0,0,0,0,161986
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,105325,92,105417
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2020,Public,0,168,0,0,7688,0,0,0,0,7856
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2020,Commercial,0,0,295,0,0,6318,265,0,0,6878
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2019,Passenger,151705,0,0,17245,0,0,0,0,0,168950
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,105654,807,106461
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2019,Public,0,19985,0,0,4235,0,0,0,0,24220
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2019,Commercial,0,0,11034,0,0,6336,470,0,0,17840
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2018,Passenger,131521,0,0,15878,0,0,0,0,0,147399
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,60040,589,60629
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2018,Public,0,12447,0,0,5608,0,0,0,0,18055
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2018,Commercial,0,0,12547,0,0,5905,381,0,0,18833
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2017,Passenger,139951,0,0,14400,0,0,0,0,0,154351
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,74492,1210,75702
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2017,Public,0,15687,0,0,5475,0,0,0,0,21162
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2017,Commercial,0,0,13165,0,0,7822,518,0,0,21505
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2016,Passenger,181266,0,0,5017,0,0,0,0,0,181266
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,60626,977,61603
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2016,Public,0,16590,0,0,5688,0,0,0,0,22278
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2016,Commercial,0,0,781,0,0,6837,271,0,0,7108
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2015,Passenger,169329,0,0,5017,0,0,0,0,0,169329
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,59423,890,60313
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2015,Public,0,17113,0,0,5877,0,0,0,0,22990
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2015,Commercial,0,0,781,0,0,6307,256,0,0,6563
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2014,Passenger,158199,0,0,5017,0,0,0,0,0,158199
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,46429,634,47063
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2014,Public,0,16508,0,0,5758,0,0,0,0,22266
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2014,Commercial,0,0,781,0,0,5356,217,0,0,5573
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2013,Passenger,167583,0,0,5017,0,0,0,0,0,167583
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,36745,258,37003
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2013,Public,0,19076,0,0,7525,0,0,0,0,26601
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2013,Commercial,0,0,781,0,0,6084,306,0,0,6390
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2012,Passenger,144758,0,0,5017,0,0,0,0,0,144758
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,27105,417,27522
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2012,Public,0,13173,0,0,6690,0,0,0,0,19863
+R:7,'COMMONWEALTH AVE.',Manila-Bulacan,'Outside of the city',2012,Commercial,0,0,781,0,0,5666,0,0,0,5666
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2022,Passenger,38715,0,0,1319,0,0,0,0,0,40034
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,30308,265,30573
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2022,Public,0,3202,0,0,1593,0,0,0,0,4795
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2022,Commercial,0,0,72,0,0,7880,1458,0,0,9410
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2021,Passenger,27772,0,0,1101,0,0,0,0,0,28873
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,29066,1222,30288
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2021,Public,0,3247,0,0,550,0,0,0,0,3797
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2021,Commercial,0,0,53,0,0,8334,1162,0,0,9549
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2020,Passenger,41356,0,0,1839,0,0,0,0,0,43195
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,25152,923,26075
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2020,Public,0,1660,0,0,175,0,0,0,0,1835
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2020,Commercial,0,0,34,0,0,8449,1414,0,0,9897
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2019,Passenger,38149,0,0,847,0,0,0,0,0,38996
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,18028,328,18356
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2019,Public,0,3338,0,0,1452,0,0,0,0,4790
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2019,Commercial,0,0,197,0,0,8551,2396,0,0,11144
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2018,Passenger,32136,0,0,881,0,0,0,0,0,33017
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,14271,882,15153
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2018,Public,0,2980,0,0,1408,0,0,0,0,4388
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2018,Commercial,0,0,161,0,0,8662,2695,0,0,11518
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2017,Passenger,28690,0,0,908,0,0,0,0,0,29598
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,11938,650,12588
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2017,Public,0,3695,0,0,1494,0,0,0,0,5189
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2017,Commercial,0,0,222,0,0,9278,3915,0,0,13415
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2016,Passenger,28739,0,0,5017,0,0,0,0,0,28739
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,12482,798,13280
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2016,Public,0,4888,0,0,1332,0,0,0,0,6220
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2016,Commercial,0,0,781,0,0,6554,3221,0,0,9775
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2015,Passenger,25880,0,0,5017,0,0,0,0,0,25880
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,14498,1859,16357
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2015,Public,0,4533,0,0,1524,0,0,0,0,6057
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2015,Commercial,0,0,781,0,0,6736,2867,0,0,9603
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2014,Passenger,51859,0,0,5017,0,0,0,0,0,51859
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,15644,1549,17193
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2014,Public,0,6299,0,0,1834,0,0,0,0,8133
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2014,Commercial,0,0,781,0,0,9230,3939,0,0,13169
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2013,Passenger,46390,0,0,5017,0,0,0,0,0,46390
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,11168,1082,12250
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2013,Public,0,7206,0,0,1902,0,0,0,0,9108
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2013,Commercial,0,0,781,0,0,10038,2784,0,0,12822
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2012,Passenger,51790,0,0,5017,0,0,0,0,0,51790
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,12200,959,13159
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2012,Public,0,9414,0,0,2485,0,0,0,0,11899
+R:8,'A. BONIFACIO','Manila-La Union','Outside of the city',2012,Commercial,0,0,781,0,0,9509,2495,0,0,12004
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2022,Passenger,29917,0,0,2825,0,0,0,0,0,32742
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,54799,1813,56612
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2022,Public,0,7154,0,0,26,0,0,0,0,7180
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2022,Commercial,0,0,28,0,0,2531,15,0,0,2574
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2021,Passenger,33217,0,0,3494,0,0,0,0,0,36711
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,59406,747,60153
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2021,Public,0,6683,0,0,543,0,0,0,0,7226
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2021,Commercial,0,0,28,0,0,2788,0,0,0,2816
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2020,Passenger,30080,0,0,2204,0,0,0,0,0,32284
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,40721,956,41677
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2020,Public,0,9986,0,0,449,0,0,0,0,10435
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2020,Commercial,0,0,101,0,0,2938,109,0,0,3148
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2019,Passenger,35836,0,0,2602,0,0,0,0,0,38438
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,41086,1291,42377
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2019,Public,0,10263,0,0,474,0,0,0,0,10737
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2019,Commercial,0,0,76,0,0,3357,56,0,0,3489
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2018,Passenger,37404,0,0,3062,0,0,0,0,0,40466
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,32959,1574,34533
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2018,Public,0,11440,0,0,370,0,0,0,0,11810
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2018,Commercial,0,0,42,0,0,2618,4,0,0,2664
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2017,Passenger,32905,0,0,2685,0,0,0,0,0,35590
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,29449,1565,31014
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2017,Public,0,12546,0,0,492,0,0,0,0,13038
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2017,Commercial,0,0,83,0,0,2012,3,0,0,2098
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2016,Passenger,29734,0,0,5017,0,0,0,0,0,29734
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,28538,2000,30538
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2016,Public,0,13420,0,0,428,0,0,0,0,13848
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2016,Commercial,0,0,781,0,0,2168,7,0,0,2175
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2015,Passenger,29017,0,0,5017,0,0,0,0,0,29017
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,23341,2579,25920
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2015,Public,0,13205,0,0,298,0,0,0,0,13503
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2015,Commercial,0,0,781,0,0,1948,7,0,0,1955
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2014,Passenger,25464,0,0,5017,0,0,0,0,0,25464
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,17749,1568,19317
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2014,Public,0,12075,0,0,304,0,0,0,0,12379
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2014,Commercial,0,0,781,0,0,1787,4,0,0,1791
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2013,Passenger,32226,0,0,5017,0,0,0,0,0,32226
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,19688,3172,22860
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2013,Public,0,14099,0,0,490,0,0,0,0,14589
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2013,Commercial,0,0,781,0,0,1987,7,0,0,1994
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2012,Passenger,28956,0,0,5017,0,0,0,0,0,28956
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,13634,2487,16121
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2012,Public,0,14606,0,0,479,0,0,0,0,15085
+R:9,'RIZAL AVE.','Manila-La Union','Outside of the city',2012,Commercial,0,0,781,0,0,1810,6,0,0,1816
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2022,Passenger,34415,0,0,1950,0,0,0,0,0,36365
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,43733,2481,46214
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2022,Public,0,656,0,0,163,0,0,0,0,819
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2022,Commercial,0,0,43,0,0,6051,8610,0,0,14704
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2021,Passenger,39187,0,0,2391,0,0,0,0,0,41578
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,44121,3753,47874
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2021,Public,0,630,0,0,147,0,0,0,0,777
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2021,Commercial,0,0,38,0,0,6043,6506,0,0,12587
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2020,Passenger,45911,0,0,2304,0,0,0,0,0,48215
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,42621,2166,44787
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2020,Public,0,688,0,0,254,0,0,0,0,942
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2020,Commercial,0,0,28,0,0,6281,7342,0,0,13651
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2019,Passenger,27652,0,0,2391,0,0,0,0,0,30043
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,39519,2233,41752
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2019,Public,0,1309,0,0,48,0,0,0,0,1357
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2019,Commercial,0,0,163,0,0,4791,6173,0,0,11127
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2018,Passenger,32883,0,0,2839,0,0,0,0,0,35722
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,28426,2483,30909
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2018,Public,0,1738,0,0,84,0,0,0,0,1822
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2018,Commercial,0,0,153,0,0,5416,8235,0,0,13804
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2017,Passenger,35955,0,0,3538,0,0,0,0,0,39493
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,23167,2011,25178
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2017,Public,0,1783,0,0,73,0,0,0,0,1856
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2017,Commercial,0,0,186,0,0,5686,7886,0,0,13758
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2016,Passenger,31211,0,0,5017,0,0,0,0,0,31211
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,20181,2932,23113
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2016,Public,0,2356,0,0,53,0,0,0,0,2409
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2016,Commercial,0,0,781,0,0,4989,8290,0,0,13279
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2014,Passenger,21326,0,0,5017,0,0,0,0,0,21326
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,11737,1822,13559
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2014,Public,0,1902,0,0,48,0,0,0,0,1950
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2014,Commercial,0,0,781,0,0,4974,3856,0,0,8830
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2013,Passenger,31887,0,0,5017,0,0,0,0,0,31887
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,9956,627,10583
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2013,Public,0,24,0,0,24,0,0,0,0,48
+R:10,'DEL PAN',Manila-Navotas,'Outside of the city',2013,Commercial,0,0,781,0,0,4455,6566,0,0,11021
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2022,Passenger,100373,0,0,6473,0,0,0,0,0,106846
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,106963,257,107220
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2022,Public,0,7861,0,0,542,0,0,0,0,8403
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2022,Commercial,0,0,805,0,0,4853,343,0,0,6001
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2021,Passenger,109691,0,0,7659,0,0,0,0,0,117350
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,99611,252,99863
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2021,Public,0,7682,0,0,480,0,0,0,0,8162
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2021,Commercial,0,0,882,0,0,6687,522,0,0,8091
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2020,Passenger,102714,0,0,7762,0,0,0,0,0,110476
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,90421,453,90874
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2020,Public,0,12666,0,0,454,0,0,0,0,13120
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2020,Commercial,0,0,3313,0,0,5125,225,0,0,8663
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2019,Passenger,106031,0,0,8380,0,0,0,0,0,114411
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,81732,321,82053
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2019,Public,0,14727,0,0,257,0,0,0,0,14984
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2019,Commercial,0,0,3272,0,0,6199,441,0,0,9912
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2018,Passenger,98705,0,0,6797,0,0,0,0,0,105502
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,49597,164,49761
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2018,Public,0,13152,0,0,73,0,0,0,0,13225
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2018,Commercial,0,0,4006,0,0,5351,369,0,0,9726
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2017,Passenger,90287,0,0,5165,0,0,0,0,0,95452
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,42019,169,42188
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2017,Public,0,14261,0,0,133,0,0,0,0,14394
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2017,Commercial,0,0,4532,0,0,5684,412,0,0,10628
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2016,Passenger,95837,0,0,5017,0,0,0,0,0,95837
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,36259,129,36388
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2016,Public,0,15402,0,0,129,0,0,0,0,15531
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2016,Commercial,0,0,781,0,0,5431,439,0,0,5870
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2015,Passenger,112020,0,0,5017,0,0,0,0,0,112020
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,36609,178,36787
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2015,Public,0,17171,0,0,95,0,0,0,0,17266
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2015,Commercial,0,0,781,0,0,6394,548,0,0,6942
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2014,Passenger,109239,0,0,5017,0,0,0,0,0,109239
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,31650,153,31803
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2014,Public,0,20718,0,0,166,0,0,0,0,20884
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2014,Commercial,0,0,781,0,0,6524,533,0,0,7057
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2013,Passenger,117772,0,0,5017,0,0,0,0,0,117772
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,28134,126,28260
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2013,Public,0,19259,0,0,215,0,0,0,0,19474
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2013,Commercial,0,0,781,0,0,7237,475,0,0,7712
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2012,Passenger,89053,0,0,5017,0,0,0,0,0,89053
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,22850,394,23244
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2012,Public,0,12743,0,0,105,0,0,0,0,12848
+'MARCOS HIGHWAY','MARCOS HIGHWAY','Marcos Highway','Outside of the city',2012,Commercial,0,0,781,0,0,7030,749,0,0,7779
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2022,Passenger,24724,0,0,3659,0,0,0,0,0,28383
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2022,Two/Three-Wheeled,0,0,0,0,0,0,0,64759,298,65057
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2022,Public,0,4074,0,0,479,0,0,0,0,4553
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2022,Commercial,0,0,8,0,0,2386,169,0,0,2563
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2021,Passenger,30529,0,0,4834,0,0,0,0,0,35363
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2021,Two/Three-Wheeled,0,0,0,0,0,0,0,80178,200,80378
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2021,Public,0,3740,0,0,855,0,0,0,0,4595
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2021,Commercial,0,0,2,0,0,2858,194,0,0,3054
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2020,Passenger,33129,0,0,3720,0,0,0,0,0,36849
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2020,Two/Three-Wheeled,0,0,0,0,0,0,0,59340,190,59530
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2020,Public,0,8300,0,0,2244,0,0,0,0,10544
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2020,Commercial,0,0,41,0,0,3923,183,0,0,4147
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2019,Passenger,36050,0,0,3974,0,0,0,0,0,40024
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2019,Two/Three-Wheeled,0,0,0,0,0,0,0,44030,194,44224
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2019,Public,0,8705,0,0,2077,0,0,0,0,10782
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2019,Commercial,0,0,16,0,0,2533,348,0,0,2897
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2018,Passenger,34663,0,0,4189,0,0,0,0,0,38852
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2018,Two/Three-Wheeled,0,0,0,0,0,0,0,39159,249,39408
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2018,Public,0,8398,0,0,2034,0,0,0,0,10432
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2018,Commercial,0,0,21,0,0,2936,516,0,0,3473
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2017,Passenger,29446,0,0,4073,0,0,0,0,0,33519
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2017,Two/Three-Wheeled,0,0,0,0,0,0,0,34852,206,35058
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2017,Public,0,8752,0,0,1889,0,0,0,0,10641
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2017,Commercial,0,0,25,0,0,3208,506,0,0,3739
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2016,Passenger,31034,0,0,5017,0,0,0,0,0,31034
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2016,Two/Three-Wheeled,0,0,0,0,0,0,0,35032,293,35325
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2016,Public,0,8532,0,0,2168,0,0,0,0,10700
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2016,Commercial,0,0,781,0,0,2732,288,0,0,3020
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2015,Passenger,36702,0,0,5017,0,0,0,0,0,36702
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2015,Two/Three-Wheeled,0,0,0,0,0,0,0,27734,533,28267
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2015,Public,0,10012,0,0,2617,0,0,0,0,12629
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2015,Commercial,0,0,781,0,0,4031,541,0,0,4572
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2014,Passenger,35945,0,0,5017,0,0,0,0,0,35945
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2014,Two/Three-Wheeled,0,0,0,0,0,0,0,24946,270,25216
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2014,Public,0,9432,0,0,2268,0,0,0,0,11700
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2014,Commercial,0,0,781,0,0,3681,402,0,0,4083
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2013,Passenger,33565,0,0,5017,0,0,0,0,0,33565
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2013,Two/Three-Wheeled,0,0,0,0,0,0,0,23062,211,23273
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2013,Public,0,10765,0,0,2173,0,0,0,0,12938
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2013,Commercial,0,0,781,0,0,3538,305,0,0,3843
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2012,Passenger,35330,0,0,5017,0,0,0,0,0,35330
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2012,Two/Three-Wheeled,0,0,0,0,0,0,0,18682,119,18801
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2012,Public,0,11087,0,0,2485,0,0,0,0,13572
+'MCARTHUR HIGHWAY','MCARTHUR HIGHWAY','Mcarthur Highway','Outside of the city',2012,Commercial,0,0,781,0,0,4236,435,0,0,4671
